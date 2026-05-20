@@ -1,0 +1,25 @@
+{
+  "name": "consark.io",
+  "version": "1.0.0",
+  "description": "Task: To automate file multi file upload taks for file.io using playwright with typescript strictly following POM iplementation and helper fucntions.",
+  "keywords": [
+    "consark.ai"
+  ],
+  "homepage": "https://github.com/himanshuyadavg21/consark.ai#readme",
+  "bugs": {
+    "url": "https://github.com/himanshuyadavg21/consark.ai/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshuyadavg21/consark.ai.git"
+  },
+  "license": "ISC",
+  "author": "Himanshu yadav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.1"
+  }
+}
