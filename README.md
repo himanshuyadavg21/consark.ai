@@ -15,3 +15,6 @@ As per the technical mandate, the project structure is explicitly organized as f
 ### Prerequisites
 Ensure you have [Node.js](https://nodejs.org/) installed (v18+ recommended).
 
+
+npm init
+npm init playwright@latest
